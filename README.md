@@ -2,6 +2,8 @@
 
 **Find a Friend** is a serene and innovative platform designed to bring people together. Whether you're seeking companionship, collaboration, or exploration, Find a Friend offers a seamless and beautiful experience to meet like-minded individuals.
 
+---
+
 ## Features
 
 - **User-Friendly Interface**: A sleek, serene design with dynamic animations to enhance your experience.
@@ -11,24 +13,35 @@
 - **Secure Messaging**: Communicate safely and privately with your new friends.
 - **Start Button Integration**: Begin your journey to finding friends with a single click.
 
+---
+
 ## Contract Details
+
 - **Contract Address**: `0x96Be68BCd7eCD72ccae215F44104d3ccfC7bda3A`
-- **Network**: Neo X Mainnet
+- **Network**: Edu Chain
+
+---
 
 ## Deployment
-- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0x96Be68BCd7eCD72ccae215F44104d3ccfC7bda3A)
-- **Coin Used**: GAS
 
+- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0x96Be68BCd7eCD72ccae215F44104d3ccfC7bda3A)
+- **Coin Used**: EDU
+
+---
 
 ## Vision
 
 The vision of Find a Friend is to create a world where everyone has the opportunity to connect, collaborate, and explore with amazing individuals. Our platform aims to break barriers and foster meaningful relationships in a secure and serene environment.
+
+---
 
 ## Technologies Used
 
 - **HTML & CSS**: For the beautiful and responsive user interface.
 - **JavaScript**: For dynamic and interactive features like animations.
 - **Responsive Design**: Ensuring the platform looks great on all devices.
+
+---
 
 ## Run Locally
 
@@ -37,6 +50,7 @@ Follow these steps to run the project locally and explore its features:
 1. Clone the project:
    ```bash
    git clone https://github.com/your-username/find-a-friend.git
+
    ```
 
 2. Navigate to the project directory:
