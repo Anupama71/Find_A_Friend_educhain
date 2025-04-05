@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find a Friend</title>
+    <script src="https://cdn.jsdelivr.net/npm/ethers@5.7.0/dist/ethers.umd.min.js"></script>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Find a Friend</h1>
+        <nav>
+            <a href="#list">List Yourself</a>
+            <a href="#browse">Browse Friends</a>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="list">
+            <h2>List Yourself as a Friend</h2>
+            <form id="listForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="description">Description:</label>
+                <textarea id="description" name="description" required></textarea>
+
+                <label for="price">Price per hour (in GAS):</label>
+                <input type="number" id="price" name="price" min="1" required>
+
+                <button type="submit">List Me</button>
+            </form>
+        </section>
+
+        <section id="browse">
+            <h2>Browse Available Friends</h2>
+            <div id="friendsList">
+                <!-- Friends will be dynamically loaded here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Find a Friend. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
