@@ -8,7 +8,7 @@ const listForm = document.getElementById('listForm');
 const friendsList = document.getElementById('friendsList');
 
 // Ethers.js and Contract Setup
-const contractAddress = "0xc1433abe2ff5db21E47c701CC2E6E540AdB941d8";
+const contractAddress = "0x0604532a4582bec253C5FB173e5B0E2663Dac1a3";
 const abi =[
 	{
 		"anonymous": false,
