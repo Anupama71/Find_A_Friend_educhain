@@ -65,14 +65,6 @@ Follow these steps to run the project locally and explore its features:
 - Navigate through the top menu for **Home**, **About**, **Features**, and **Start**.
 - Click the **Start** button to begin your journey and connect with friends.
 
-## Screenshots
-![sf](https://github.com/user-attachments/assets/3734ab8f-2a89-481d-952a-4dd956db12b0)
-![sf2](https://github.com/user-attachments/assets/54ef2351-55d4-4c41-9512-ed714456c10d)
-
-![1F](https://github.com/user-attachments/assets/a447dc64-1e26-4f1c-bc65-5914fe1b84d5)
-![2F](https://github.com/user-attachments/assets/22f98309-90d9-4832-a67b-22cbbdfdf197)
-
-
 ## Future Enhancements
 
 - Add real-time chat functionality.
