@@ -17,14 +17,14 @@
 
 ## Contract Details
 
-- **Contract Address**: `0x96Be68BCd7eCD72ccae215F44104d3ccfC7bda3A`
+- **Contract Address**: `0x0604532a4582bec253C5FB173e5B0E2663Dac1a3`
 - **Network**: Edu Chain
 
 ---
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0x96Be68BCd7eCD72ccae215F44104d3ccfC7bda3A)
+- **Contract Address**: [View on Explorer]([https://xexplorer.neo.org/address/0x96Be68BCd7eCD72ccae215F44104d3ccfC7bda3A](https://edu-chain-testnet.blockscout.com/address/0x0604532a4582bec253C5FB173e5B0E2663Dac1a3))
 - **Coin Used**: EDU
 
 ---
